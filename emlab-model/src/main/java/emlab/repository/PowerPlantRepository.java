@@ -24,6 +24,7 @@ import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
 import emlab.domain.agent.EnergyProducer;
+import emlab.domain.enipedia.PowerPlantEnipedia;
 import emlab.domain.market.electricity.ElectricitySpotMarket;
 import emlab.domain.technology.PowerGeneratingTechnology;
 import emlab.domain.technology.PowerGridNode;
